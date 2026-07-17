@@ -1,4 +1,4 @@
-# CS109A---Final-Project-Blood-Lactate-Analysis
+# cs1090a_blood_lactate
 
 Kaggle Data Link: https://www.kaggle.com/datasets/andreazignoli/cycling-la/data?select=day3_lactate_challenge.csv
 
