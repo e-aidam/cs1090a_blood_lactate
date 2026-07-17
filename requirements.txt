@@ -1,0 +1,13 @@
+# Python >= 3.12
+matplotlib
+numpy
+pandas
+seaborn
+jupyter
+ipykernel
+scipy
+scikit-learn
+statsmodels
+pymc
+arviz
+graphviz
